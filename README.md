@@ -13,4 +13,4 @@ During my career, I've also had the opportunity to work on small projects coding
 
 #### 🌴 Hobbys
 
-I develop and maintain some open source projects (that you can find here on GitHub) and I love electronics 📻, 3D printing 🖨️ and the Maker world in general 🏗️. I also love automation, especially when it involves electronics, mechanics and information technology.
+I develop and maintain some open source projects 🌐 and I love electronics 📻, 3D printing 🖨️ and the Maker world in general 🏗️. I also love automation, especially when it involves electronics, mechanics and information technology.

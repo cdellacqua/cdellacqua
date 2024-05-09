@@ -1,4 +1,4 @@
-I'm a freelance cross platform developer 🖥️ 💻 📱 🌐
+I'm a freelance cross-platform developer 🖥️ 💻 📱 🌐
 
 #### 🚧 What I develop
 
